@@ -1,1 +1,1 @@
-# Knowledge-Base-Tool
+构建gradio，可以上传文本来快速构建知识库，利用GLM-4-long模型能力，实现知识问答。
